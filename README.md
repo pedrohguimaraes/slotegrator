@@ -1,6 +1,12 @@
 # PHP Slotegrator
 Biblioteca de integracão com API do Slotegrator
-# Utilização
+
+## Instalação
+Para instalar esta dependência basta executar o comando abaixo:
+```shell
+composer require pedrohguimaraes/slotegrator
+```
+## Utilização
 
 ```php
 <?php
