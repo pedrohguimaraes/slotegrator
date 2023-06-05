@@ -1,3 +1,7 @@
+# PHP Slotegrator
+Biblioteca de integracão com API do Slotegrator
+# Utilização
+
 ```php
 <?php
 
