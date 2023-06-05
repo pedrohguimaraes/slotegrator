@@ -1,0 +1,21 @@
+{
+  "name": "tresfaces/slotegrator",
+  "description": "Biblioteca de integração do Slotegrator.",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Pedro Guimarães",
+      "email": "contato@pedroguimaraes.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tresfaces\\Slotegrator\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
