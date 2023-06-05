@@ -22,3 +22,6 @@ $request = [
 ];
 
 echo $slote->games($request);
+```
+## Requisitos
+- Necessário PHP 7.0 ou superior
