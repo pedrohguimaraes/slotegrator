@@ -2,11 +2,12 @@
   "name": "pedrohguimaraes/slotegrator",
   "description": "Biblioteca de integração do Slotegrator.",
   "type": "library",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "authors": [
     {
       "name": "Pedro Guimarães",
-      "email": "contato@pedroguimaraes.dev"
+      "email": "contato@pedroguimaraes.dev",
+      "homepage": "https://pedroguimaraes.dev"
     }
   ],
   "autoload": {
