@@ -18,6 +18,7 @@ final class RequestGuzzle implements RequestContract
   {
     $client =  new Client();
     $response = $client->request($method, $url, $options);
-    return $response->getBody();
+    $body = $response->getBody();
+    return $body->getContents();
   }
 }
